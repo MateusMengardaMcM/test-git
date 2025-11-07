@@ -1,7 +1,7 @@
 
 # Resumos Git e Github
 
-Projeto voltado para fins educacionais, com intenção de aprender e compreender como utilizar o Git e o Github.
+Projeto voltado para fins educacionais, com intenção de aprender e compreender como utilizar o Git e o Github. Este é um teste de como fazer um README, trabalhando com versionamento de código.
 
 
 ## Aprendizados
@@ -31,6 +31,6 @@ Para fazer o deploy desse projeto faça um clone do repositório e execute o arq
 Use o código para quaisquer fins que desejastes, exceto os que infringem leis do Brasil, de seu país ou da ONU. O autor deste repositório original não possui quaisquer responsabilidade com oque quaisquer pessoa utilizar o repositório para. Sempre que for utilizar este repositório, conceda o devido crédito ao autor original.
 
 
-## Autores
+## Autor
 
 - [@MateusMengardaMcM](https://github.com/MateusMengardaMcM)
