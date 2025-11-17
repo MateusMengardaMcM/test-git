@@ -22,7 +22,7 @@ Aprendi como criar e modificar arquivos README pro meio do Gitbash, além de ent
 Para fazer o deploy desse projeto faça um clone do repositório e execute o arquivo em index.html.
 
 ```bash
-  git clone URL
+  git clone [URL](https://github.com/MateusMengardaMcM/test-git)
 ```
 
 
