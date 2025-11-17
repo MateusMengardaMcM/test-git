@@ -1,7 +1,7 @@
 
 # Resumos Git e Github
 
-Projeto voltado para fins educacionais, com intenção de aprender e compreender como utilizar o Git e o Github. Este é um teste de como fazer um README, trabalhando com versionamento de código.
+Projeto voltado para fins educacionais, com intenção de aprender e compreender como utilizar o Git e o Github. Este é um teste de como fazer um README, trabalhando com versionamento de código e os principais comandos git.
 
 
 ## Aprendizados
