@@ -6,7 +6,7 @@ Projeto voltado para fins educacionais, com intenção de aprender e compreender
 
 ## Aprendizados
 
-Aprendi como criar e modificar arquivos README pro meio do Gitbash, além de compreender o comando **git.status**.
+Aprendi como criar e modificar arquivos README pro meio do Gitbash, além de entender o comando **git.status**.
 ## Funcionalidades
 
 - Apresenta uma lista para os comados Git mais comuns
